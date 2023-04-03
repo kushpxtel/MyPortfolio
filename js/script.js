@@ -68,7 +68,7 @@ const sr = ScrollReveal ({
 })
 
 function openResume(){
-	window.open("file/ResumeDhruvKakadiya.pdf", "_blank");
+	window.open("file/KushResume.pdf", "_blank");
 }
 
 sr.reveal('.home-text',{delay:200, origin:'bottom'})
